@@ -1,6 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
-<rect width="1200" height="190" fill="#101112"/>
-<path d="M54 1h1092" stroke="#ffffff" stroke-opacity=".10"/>
-<g font-family="Arial, Helvetica, sans-serif"><text x="54" y="54" fill="#ed4d36" font-size="11" letter-spacing="3">04 — CONTACT</text><text x="54" y="113" fill="#eeeae2" font-size="37">Something great starts with a hello.</text><text x="54" y="153" fill="#8f8d87" font-size="13" letter-spacing="1">PORTFOLIO · GITHUB · YOUTUBE</text></g>
-<g transform="translate(1090 96)" stroke="#ed4d36" stroke-width="3" fill="none"><path d="M0 28 30-2M0 13 17-4M17 28 34 11"/></g>
+<rect width="1200" height="190" rx="8" fill="#050907"/>
+<rect x="1" y="1" width="1198" height="188" rx="8" fill="none" stroke="#173621"/>
+<g font-family="Consolas,Menlo,monospace">
+  <text x="38" y="49" fill="#16f16a" font-size="13">$ ping socials</text>
+  <text x="38" y="82" fill="#e5f3e8" font-size="15">github    :: github.com/74hamed</text>
+  <text x="38" y="109" fill="#e5f3e8" font-size="15">portfolio :: 74hamed.vercel.app</text>
+  <text x="38" y="136" fill="#e5f3e8" font-size="15">youtube   :: youtube.com/@74Hamed</text>
+  <text x="38" y="169" fill="#6f8577" font-size="12">reply: connection established ✓</text>
+</g>
+<text x="1115" y="112" fill="#16f16a" font-size="52" text-anchor="middle" font-family="Consolas,Menlo,monospace">&gt;_</text>
 </svg>
