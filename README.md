@@ -2,15 +2,6 @@
 
 <img src="./assets/hero.svg" width="100%" alt="74Hamed terminal profile" />
 
-<br/>
-
-<a href="https://github.com/74hamed">
-  <img src="https://img.shields.io/badge/./github-74hamed-16f16a?style=flat-square&labelColor=050907" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@74Hamed">
-  <img src="https://img.shields.io/badge/./youtube-@74Hamed-16f16a?style=flat-square&labelColor=050907" alt="YouTube" />
-</a>
 
 </div>
 
