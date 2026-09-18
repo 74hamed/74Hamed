@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/74hamed/74Hamed/main/assets/hero.svg?v=20260918-matrix3" width="100%" alt="74Hamed terminal profile" />
+<img src="https://raw.githubusercontent.com/74hamed/74Hamed/main/assets/hero.svg?v=20260918-glitch1" width="100%" alt="74Hamed terminal profile" />
 
 <br/>
 
