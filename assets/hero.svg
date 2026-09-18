@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101112"/><stop offset=".62" stop-color="#141516"/><stop offset="1" stop-color="#1b1716"/></linearGradient>
+  <radialGradient id="glow" cx="78%" cy="40%" r="55%"><stop stop-color="#ed4d36" stop-opacity=".16"/><stop offset="1" stop-color="#ed4d36" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<rect width="1200" height="430" fill="url(#bg)"/>
+<rect width="1200" height="430" fill="url(#glow)"/>
+<path d="M70 0v430M1130 0v430M0 350h1200" stroke="#ffffff" stroke-opacity=".035"/>
+<circle cx="937" cy="208" r="124" fill="none" stroke="#e9e5dc" stroke-opacity=".09" stroke-width="24"/>
+<circle cx="937" cy="208" r="98" fill="none" stroke="#ed4d36" stroke-opacity=".2" stroke-width="2" stroke-dasharray="185 55 120 70"/>
+<path d="M785 320L1076 86" stroke="#ed4d36" stroke-width="4"/>
+<path d="M801 324L1092 90" stroke="#eeeae2" stroke-opacity=".18" stroke-width="1"/>
+<path d="M868 340L1115 142" stroke="#eeeae2" stroke-opacity=".08" stroke-width="1"/>
+<circle cx="1090" cy="90" r="5" fill="#ed4d36"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="70" y="62" fill="#aaa8a3" font-size="13" letter-spacing="4">74HAMED / CREATIVE DEVELOPER</text>
+  <rect x="70" y="89" width="28" height="3" fill="#ed4d36"/>
+  <text x="70" y="137" fill="#c9c4ba" font-size="16" letter-spacing="2">DEVELOPER · DESIGNER · STUDENT</text>
+  <text x="70" y="215" fill="#eeeae2" font-size="64" font-weight="400" letter-spacing="-3">Intent in every detail.</text>
+  <text x="70" y="279" fill="#ed4d36" font-family="Georgia, Times New Roman, serif" font-size="52" font-style="italic">Soul in every pixel.</text>
+  <text x="70" y="335" fill="#aaa8a3" font-size="16">Websites, desktop apps &amp; AI-powered digital experiences — built end to end.</text>
+  <text x="70" y="387" fill="#77746e" font-size="11" letter-spacing="3">ENGINEERING / INTERACTION / CRAFT</text>
+</g>
+<g transform="translate(1080 354)" stroke="#ed4d36" stroke-width="3" fill="none">
+  <path d="M0 28 30-2M0 13 17-4M17 28 34 11"/>
+</g>
+</svg>
