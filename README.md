@@ -112,3 +112,22 @@ ai_tooling:
 
 ---
 
+---
+
+### `./portfolios`
+
+<div align="center">
+
+<a href="https://74hamed.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio_Terminal-16f16a?style=for-the-badge&labelColor=050907&color=16f16a" alt="Portfolio Terminal" />
+</a>
+&nbsp;
+<a href="https://74hamed2.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio_Samurai-16f16a?style=for-the-badge&labelColor=050907&color=16f16a" alt="Portfolio Samurai" />
+</a>
+&nbsp;
+<a href="https://74hamed3.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio_Synthwave-16f16a?style=for-the-badge&labelColor=050907&color=16f16a" alt="Portfolio Synthwave" />
+</a>
+
+</div>
