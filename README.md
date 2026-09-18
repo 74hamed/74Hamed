@@ -112,14 +112,3 @@ ai_tooling:
 
 ---
 
-### `./contact`
-
-<img src="./assets/footer.svg" width="100%" alt="74Hamed contact terminal" />
-
-<div align="center">
-
-<a href="https://74hamed.vercel.app/">
-  <img src="https://img.shields.io/badge/$_open_portfolio-16f16a?style=for-the-badge&labelColor=050907&color=16f16a" alt="Open portfolio" />
-</a>
-
-</div>
