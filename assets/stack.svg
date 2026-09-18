@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="1200" height="650" fill="#101112"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="48" fill="#ed4d36" font-size="12" letter-spacing="3">03 — TOOLKIT</text>
+<text x="54" y="90" fill="#eeeae2" font-size="34">A stack shaped by real projects.</text>
+<text x="54" y="120" fill="#8f8d87" font-size="14">Public repos + private production work.</text>
+</g>
+<g fill="#171819" stroke="#ffffff" stroke-opacity=".10">
+<rect x="54" y="160" width="346" height="205" rx="4"/><rect x="427" y="160" width="346" height="205" rx="4"/><rect x="800" y="160" width="346" height="205" rx="4"/>
+<rect x="54" y="390" width="533" height="205" rx="4"/><rect x="613" y="390" width="533" height="205" rx="4"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+<g transform="translate(80 190)"><text fill="#ed4d36" font-size="11" letter-spacing="2">LANGUAGES &amp; WEB</text><text y="39" fill="#eeeae2" font-size="18">HTML5 · CSS3 · JavaScript</text><text y="72" fill="#eeeae2" font-size="18">TypeScript · Python · PHP</text><text y="105" fill="#eeeae2" font-size="18">C# · SQL</text><text y="145" fill="#77746e" font-size="11" letter-spacing="1">DAYAN / IVALDI / PORTFOLIO / IMUGUI</text></g>
+<g transform="translate(453 190)"><text fill="#ed4d36" font-size="11" letter-spacing="2">FRAMEWORKS &amp; APPS</text><text y="39" fill="#eeeae2" font-size="18">React · Next.js · Electron</text><text y="72" fill="#eeeae2" font-size="18">FastAPI · Node.js · .NET 8</text><text y="105" fill="#eeeae2" font-size="18">WinForms · Tailwind CSS · OpenGL</text><text y="145" fill="#77746e" font-size="11" letter-spacing="1">DESKTOP / WEB / LOCAL-FIRST</text></g>
+<g transform="translate(826 190)"><text fill="#ed4d36" font-size="11" letter-spacing="2">DATA &amp; APIs</text><text y="39" fill="#eeeae2" font-size="18">SQLite · PostgreSQL · Redis</text><text y="72" fill="#eeeae2" font-size="18">REST APIs · SQLAlchemy</text><text y="105" fill="#eeeae2" font-size="18">Anthropic API · AI providers</text><text y="145" fill="#77746e" font-size="11" letter-spacing="1">DATA / MEMORY / INTEGRATIONS</text></g>
+<g transform="translate(80 420)"><text fill="#ed4d36" font-size="11" letter-spacing="2">QUALITY &amp; DELIVERY</text><text y="39" fill="#eeeae2" font-size="18">Git · Docker · CI / CD · Pytest · Vitest</text><text y="72" fill="#eeeae2" font-size="18">Playwright · Ruff · mypy · xUnit</text><text y="105" fill="#aaa8a3" font-size="14">Testing, automation and maintainable architecture are part of the build.</text></g>
+<g transform="translate(639 420)"><text fill="#ed4d36" font-size="11" letter-spacing="2">AI &amp; CREATIVE TOOLING</text><text y="39" fill="#eeeae2" font-size="18">Codex · Claude Code · Gemini CLI · Copilot</text><text y="72" fill="#eeeae2" font-size="18">Cursor · Cline · OpenCode · Hermes · ComfyUI</text><text y="105" fill="#aaa8a3" font-size="14">Plus UI/UX design, Photoshop, Illustrator and Premiere Pro.</text></g>
+</g>
+</svg>
