@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-<defs><radialGradient id="g" cx="65%" cy="45%" r="55%"><stop stop-color="#ed4d36" stop-opacity=".18"/><stop offset="1" stop-color="#101112" stop-opacity="0"/></radialGradient></defs>
-<rect width="900" height="430" fill="#151617"/><rect width="900" height="430" fill="url(#g)"/>
-<g stroke="#ffffff" stroke-opacity=".08"><path d="M55 70h790M55 350h790"/><path d="M120 35v360M780 35v360"/></g>
-<g stroke="#ed4d36" fill="none" stroke-width="2"><circle cx="565" cy="213" r="72"/><circle cx="565" cy="213" r="120" stroke-opacity=".25"/><path d="M565 93v240M445 213h240"/></g>
-<g fill="#eeeae2"><circle cx="565" cy="93" r="7"/><circle cx="685" cy="213" r="7"/><circle cx="565" cy="333" r="7"/><circle cx="445" cy="213" r="7"/></g>
-<g stroke="#aaa8a3" stroke-opacity=".45"><path d="M565 213 445 213M565 213 685 213M565 213 565 93M565 213 565 333"/></g>
-<g font-family="Arial, Helvetica, sans-serif"><text x="55" y="55" fill="#aaa8a3" font-size="11" letter-spacing="3">PRIVATE AI DESKTOP APPLICATION</text><text x="55" y="185" fill="#eeeae2" font-size="44">IVALDI</text><text x="55" y="224" fill="#ed4d36" font-size="18">CONTROL ROOM FOR AI AGENTS</text><text x="55" y="270" fill="#aaa8a3" font-size="14">TypeScript · Next.js · Electron</text><text x="55" y="294" fill="#aaa8a3" font-size="14">Python · FastAPI · SQLite</text><text x="55" y="374" fill="#77746e" font-size="10" letter-spacing="2">LOCAL-FIRST / MULTI-AGENT / WORKFLOWS</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect width="900" height="330" rx="8" fill="#050907"/>
+<rect x="1" y="1" width="898" height="328" rx="8" fill="none" stroke="#173621"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="28" y="41" fill="#16f16a" font-size="13">[ project_04 ]</text>
+<text x="28" y="87" fill="#e8f7ec" font-size="34" font-weight="700">Ivaldi</text>
+<text x="28" y="118" fill="#789080" font-size="14">status: private · type: local-first AI desktop platform</text>
+<text x="28" y="162" fill="#16f16a" font-size="13">$ stack --show</text>
+<text x="28" y="188" fill="#dcece0" font-size="15">TypeScript / Next.js / Electron / Python / FastAPI / SQLite</text>
+<text x="28" y="226" fill="#16f16a" font-size="13">$ purpose</text>
+<text x="28" y="252" fill="#9caf9f" font-size="14">AI agents · tools · memory · knowledge · durable workflows</text>
+<text x="28" y="299" fill="#6f8577" font-size="12">repository: private  ·  local-first control room</text>
+</g>
+<g transform="translate(710 164)" fill="none" stroke="#16f16a">
+  <circle r="72" stroke-opacity=".12"/>
+  <circle r="43" stroke-opacity=".28"/>
+  <circle r="6" fill="#16f16a"/>
+  <circle cx="-70" cy="0" r="5" fill="#16f16a"/><circle cx="70" cy="0" r="5" fill="#16f16a"/>
+  <circle cy="-70" r="5" fill="#16f16a"/><circle cy="70" r="5" fill="#16f16a"/>
+  <path d="M-70 0H70M0-70V70" stroke-opacity=".28"/>
+</g>
 </svg>
