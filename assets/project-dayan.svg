@@ -1,7 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-<rect width="900" height="430" fill="#151617"/>
-<g transform="translate(500 64)" fill="none" stroke="#e9e5dc" stroke-opacity=".22">
-<path d="M0 280V80l110-55 105 55v200"/><path d="M55 280V128h105v152"/><path d="M0 80h215M55 128 110 80l50 48"/><path d="M110 25v55"/></g>
-<circle cx="705" cy="90" r="3" fill="#ed4d36"/><path d="M696 90h-165" stroke="#ed4d36" stroke-width="2"/>
-<g font-family="Arial, Helvetica, sans-serif"><text x="55" y="55" fill="#aaa8a3" font-size="11" letter-spacing="3">WEBSITE / CUSTOM CMS</text><text x="55" y="185" fill="#eeeae2" font-size="44">Dayan Studio</text><text x="55" y="224" fill="#ed4d36" font-size="18">BILINGUAL ARCHITECTURE PORTFOLIO</text><text x="55" y="270" fill="#aaa8a3" font-size="14">HTML5 · CSS3 · JavaScript · PHP</text><text x="55" y="294" fill="#aaa8a3" font-size="14">SQLite · SEO · Custom CMS</text><text x="55" y="374" fill="#77746e" font-size="10" letter-spacing="2">WEB DESIGN / CMS / PRODUCTION</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect width="900" height="330" rx="8" fill="#050907"/>
+<rect x="1" y="1" width="898" height="328" rx="8" fill="none" stroke="#173621"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="28" y="41" fill="#16f16a" font-size="13">[ project_03 ]</text>
+<text x="28" y="87" fill="#e8f7ec" font-size="34" font-weight="700">Dayan Studio</text>
+<text x="28" y="118" fill="#789080" font-size="14">status: live · type: bilingual production website</text>
+<text x="28" y="162" fill="#16f16a" font-size="13">$ stack --show</text>
+<text x="28" y="188" fill="#dcece0" font-size="15">HTML5 / CSS3 / JavaScript / PHP / SQLite</text>
+<text x="28" y="226" fill="#16f16a" font-size="13">$ purpose</text>
+<text x="28" y="252" fill="#9caf9f" font-size="14">architecture portfolio · custom CMS · SEO · content workflows</text>
+<text x="28" y="299" fill="#6f8577" font-size="12">dayanstudio.ir  ↗</text>
+</g>
+<g transform="translate(705 75)" fill="none" stroke="#16f16a">
+  <path d="M-58 154V57L0 20l58 37v97" stroke-opacity=".32"/>
+  <path d="M-31 154V86h62v68" stroke-opacity=".5"/>
+  <path d="M-58 57h116M-31 86 0 57l31 29" stroke-opacity=".2"/>
+  <circle cy="20" r="4" fill="#16f16a"/>
+</g>
 </svg>
