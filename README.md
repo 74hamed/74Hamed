@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/74hamed/74Hamed/main/assets/hero-terminal-matrix-glitch.gif?v=20260918-gif1" width="100%" alt="74Hamed terminal profile" />
+<img src="./assets/hero.svg" width="100%" alt="74Hamed terminal profile" />
 
 <br/>
 
