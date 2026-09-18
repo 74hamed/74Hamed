@@ -1,7 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-<rect width="900" height="430" fill="#151617"/>
-<g stroke="#ffffff" stroke-opacity=".055"><path d="M0 86h900M0 172h900M0 258h900M0 344h900"/><path d="M150 0v430M300 0v430M450 0v430M600 0v430M750 0v430"/></g>
-<g transform="translate(620 205)" fill="none"><path d="M-74-56 0-95 74-56 0-16Z" stroke="#eeeae2" stroke-opacity=".45"/><path d="M-74-56v86L0 72V-16M74-56v86L0 72" stroke="#eeeae2" stroke-opacity=".28"/><path d="M0-95v79" stroke="#ed4d36" stroke-width="3"/><path d="M0-16 108 12" stroke="#ed4d36" stroke-width="3"/><path d="M0-16-66 70" stroke="#ed4d36" stroke-width="3"/></g>
-<path d="M420 310c38-55 75 44 112-16 38-61 76 36 114-20 38-56 76 32 114-10" fill="none" stroke="#ed4d36" stroke-width="2"/>
-<g font-family="Arial, Helvetica, sans-serif"><text x="55" y="55" fill="#aaa8a3" font-size="11" letter-spacing="3">WINDOWS DESKTOP APPLICATION</text><text x="55" y="185" fill="#eeeae2" font-size="44">ImuGui</text><text x="55" y="224" fill="#ed4d36" font-size="18">REAL-TIME SENSOR VISUALIZATION</text><text x="55" y="270" fill="#aaa8a3" font-size="14">C# · .NET 8 · WinForms · OpenGL</text><text x="55" y="294" fill="#aaa8a3" font-size="14">Kalman filtering · Sensor fusion · 3D</text><text x="55" y="374" fill="#77746e" font-size="10" letter-spacing="2">ENGINEERING / VISUALIZATION / TESTING</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect width="900" height="330" rx="8" fill="#050907"/>
+<rect x="1" y="1" width="898" height="328" rx="8" fill="none" stroke="#173621"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="28" y="41" fill="#16f16a" font-size="13">[ project_01 ]</text>
+<text x="28" y="87" fill="#e8f7ec" font-size="34" font-weight="700">ImuGui</text>
+<text x="28" y="118" fill="#789080" font-size="14">status: public · type: windows desktop application</text>
+<text x="28" y="162" fill="#16f16a" font-size="13">$ stack --show</text>
+<text x="28" y="188" fill="#dcece0" font-size="15">C# / .NET 8 / WinForms / OpenGL / xUnit</text>
+<text x="28" y="226" fill="#16f16a" font-size="13">$ purpose</text>
+<text x="28" y="252" fill="#9caf9f" font-size="14">real-time IMU visualization · sensor fusion · filtering · 3D</text>
+<text x="28" y="299" fill="#6f8577" font-size="12">github.com/74hamed/ImuGui  ↗</text>
+</g>
+<g transform="translate(705 166)" fill="none">
+  <circle r="74" stroke="#16f16a" stroke-opacity=".12"/>
+  <circle r="48" stroke="#16f16a" stroke-opacity=".3"/>
+  <path d="M0-76V58M-76 0H76" stroke="#16f16a" stroke-opacity=".2"/>
+  <path d="M0 0 54-38M0 0-43-50M0 0 0 68" stroke="#16f16a" stroke-width="3"/>
+  <circle r="5" fill="#16f16a"/>
+</g>
 </svg>
