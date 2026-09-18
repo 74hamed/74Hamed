@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://74hamed.vercel.app/">
-  <img src="https://img.shields.io/badge/./portfolio-74hamed.vercel.app-16f16a?style=flat-square&labelColor=050907" alt="Portfolio" />
-</a>
-&nbsp;
 <a href="https://github.com/74hamed">
   <img src="https://img.shields.io/badge/./github-74hamed-16f16a?style=flat-square&labelColor=050907" alt="GitHub" />
 </a>
