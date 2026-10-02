@@ -8,7 +8,6 @@ Web · Desktop · UI/UX
 
 [Email](mailto:x74Hamed@gmail.com) · [Portfolio](https://74hamed.vercel.app/)
 
-[View a still image](./assets/hero-poster.png)
 
 </div>
 
