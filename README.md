@@ -14,22 +14,6 @@ Web · Desktop · UI/UX
 
 ---
 
-### `./projects`
-
-| Project | Link |
-| --- | --- |
-| Dayan Studio | [dayanstudio.ir](https://dayanstudio.ir) |
-| Viaco Brick | — |
-| Ivaldi | Private project |
-| ImuGui | [GitHub](https://github.com/74hamed/ImuGui) |
-
-### `./skills`
-
-```txt
-JavaScript · TypeScript · Python · C#
-React · Next.js · Electron · FastAPI
-```
-
 ### `./portfolios`
 
 [Terminal](https://74hamed.vercel.app/) · [Synthwave](https://74hamed2.vercel.app/) · [Samurai](https://74hamed3.vercel.app/)
